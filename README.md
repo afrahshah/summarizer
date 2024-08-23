@@ -27,6 +27,28 @@ To install this project, follow these steps:
    cd summarizer
   
 3. Install dependencies
-  ```bash
-  npm install
+  `ls -l`
+   npm install
 
+4. Configure OpenAI API
+
+   Create a .env file in the root directory of the project.
+   Add your OpenAI API key to the .env file
+
+## Usage
+
+1. Start the development server
+
+   `ls-l`
+   npm run dev
+
+3. Navigate to http://localhost:5173 in your web browser.
+
+4. Summarize!
+
+  Enter the URL of the article you want to summarize.
+  Click the "Summarize" button to receive the summary.
+
+## Contributions
+
+   Feel free to open issues or submit pull requests if you have suggestions or improvements for    this project
