@@ -1,4 +1,4 @@
-#OpenAI Article Summariser
+# OpenAI Article Summariser
 
 This project is an article summarizer built with React and Vite. It allows users to input the URL of an article and receive a summary generated using the OpenAI Rapid API.
 
@@ -45,9 +45,8 @@ To install this project, follow these steps:
 3. Navigate to http://localhost:5173 in your web browser.
 
 4. Summarize!
-
-  Enter the URL of the article you want to summarize.
-  Click the "Summarize" button to receive the summary.
+   Enter the URL of the article you want to summarize.
+   Click the "Summarize" button to receive the summary.
 
 ## Contributions
 
