@@ -27,7 +27,7 @@ To install this project, follow these steps:
    cd summarizer
   
 3. Install dependencies
-  `ls -l`
+   ```bash
    npm install
 
 4. Configure OpenAI API
@@ -39,9 +39,9 @@ To install this project, follow these steps:
 
 1. Start the development server
 
-   `ls-l`
+  ```bash
    npm run dev
-
+```
 3. Navigate to http://localhost:5173 in your web browser.
 
 4. Summarize!
